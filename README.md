@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Suryakant Suman
 
-<!--
-**Suryakant-Suman/Suryakant-Suman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | Java | Spring Boot | MERN Stack  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- 💻 Java, Spring Boot
+- 🌐 React.js, Node.js, Express.js, MongoDB
+- ☁️ Exploring Cloud & DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🏡 Wanderlust – Travel Experience Platform (MERN Stack)
+- 🛒 E-commerce Clone – Inspired by Flipkart/Myntra
+- 🔐 Smart Door Locking System (IoT + Cybersecurity)
+
+## 🌱 Currently Learning
+- Advanced Spring Boot
+- Cloud for Web Apps
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/suryakantsuman/)
+- [GitHub](https://github.com/Suryakant-Suman)
